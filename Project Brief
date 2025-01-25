@@ -1,0 +1,27 @@
+𝙒𝙝𝙖𝙩 𝙄 𝙍𝙚𝙫𝙞𝙨𝙚𝙙
+
+SIEM (Security Information and Event Management) is a powerful tool for real-time monitoring, threat detection, and centralised visibility.
+
+Incident prioritisation is crucial – strategic decision-making ensures resources focus on real threats.
+
+Advanced Persistent Threats (APTs) are stealthy, sophisticated attacks requiring multi-layered defence strategies.
+
+𝙒𝙝𝙖𝙩 𝙄 𝙇𝙚𝙖𝙧𝙣𝙚𝙙
+
+Data ingestion in SIEM involves collecting, normalising, and analysing logs, analogous to organising a library for clarity and actionability.
+
+APT detection demands defence-in-depth techniques like anomaly detection, vulnerability assessments, and network audits.
+
+Prioritising incidents requires tools and methods partaking similar to triage, considering impact, urgency, and compliance needs.
+
+𝙒𝙝𝙖𝙩 𝙄 𝘼𝙥𝙥𝙡𝙞𝙚𝙙
+
+Explored Nessus, setting up vulnerability scans on Linux:
+
+Ran Host Discovery and Vulnerability scans.
+
+Analysed results based on severity and implemented recommended remediation steps.
+
+Gained hands-on experience automating vulnerability detection and reporting.
+
+📄 For a detailed breakdown of my report and project, click here -> https://lnkd.in/ee3jnaEA 
